@@ -102,9 +102,9 @@ header-includes:
 
 ![Окно настройки установки: выбор программ](https://drive.google.com/uc?id=19koVVDR9E6kAwAmgo5lx2xoM3wpU4EFo)
 
-![Отключить KDUMP](https://drive.google.com/uc?id=1LDkQVpwU_T_QI0Bbh8qFRFOSqe9Nz_DI)
+![Отключить KDUMP](https://drive.google.com/uc?id=14PEqZRdfZTLxCD7_l8-n9ePIhKePv5re)
 
-![Включите сетевое соединение и в качестве имени узла укажать ltvinh.localdomain](https://drive.google.com/uc?id=1JMw1-mtim3WrwerHyGZaK9qCtoPxrcV6)
+![Включите сетевое соединение и в качестве имени узла укажать ltvinh.localdomain](https://drive.google.com/uc?id=1LDkQVpwU_T_QI0Bbh8qFRFOSqe9Nz_DI)
 
 ![Установить пароль для root](https://drive.google.com/uc?id=1WQOZIDbF3J0gEKvuOLjPTePj0QYn6apf)
 
