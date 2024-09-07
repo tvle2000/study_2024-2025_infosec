@@ -82,7 +82,7 @@ header-includes:
 
 - Создать новую виртуальную машину, укажать называние и тип операционной системы — Linux, RedHat.
 
-![Окно «Называние машины и тип ОС»]https://drive.google.com/uc?id=1MqmazwYUKHIFNBDCGLg0d0I4QPkBPaKE)
+![Окно «Называние машины и тип ОС»](https://drive.google.com/uc?id=1MqmazwYUKHIFNBDCGLg0d0I4QPkBPaKE)
 
 - Укажать размер основной памяти виртуальной машины - 4096 МБ, и количество процессора - 2
 
@@ -106,9 +106,9 @@ header-includes:
 
 ![Включите сетевое соединение и в качестве имени узла укажать ltvinh.localdomain](https://drive.google.com/uc?id=1JMw1-mtim3WrwerHyGZaK9qCtoPxrcV6)
 
-![Установить пароль для root](https://drive.google.com/uc?id=1te4fna3ntqP-WXvjI4R2sI9HsS4GOFSi)
+![Установить пароль для root](https://drive.google.com/uc?id=1WQOZIDbF3J0gEKvuOLjPTePj0QYn6apf)
 
-![Установить пароль для пользователя с правами администратора](https://drive.google.com/uc?id=164ui4Rh7OfjA4VKZW61FTLpz0zIFX8Gj)
+![Установить пароль для пользователя с правами администратора](https://drive.google.com/uc?id=1te4fna3ntqP-WXvjI4R2sI9HsS4GOFSi)
 
 - После этого, мы перезапустим виртуальную машину
 
