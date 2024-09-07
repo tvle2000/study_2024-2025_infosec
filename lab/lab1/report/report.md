@@ -122,15 +122,13 @@ header-includes:
 
 - Можно использовать поиск с помощью **grep** для получения следующей информаций:
 
-![Версия ядра Linux](https://drive.google.com/uc?id=1Op1gXBk8dXv09aYEJbJt2jyWRFYQ4we3)
+![Версия ядра Linux](https://drive.google.com/uc?id=1NpFFcMpPj7indoqez4XhirYsY8Z_OT7d)
 
-![Частота процессора](https://drive.google.com/uc?id=12i3X0tDlIvkmUATB-OzulGxbBpnDXv2z)
-
-![Модель процессора](https://drive.google.com/uc?id=1rnZgldQajcS-HBMviKT4nUYJNH-haxK5)
-
+![Частота процессора](https://drive.google.com/uc?id=1AFc30rC53hduZlt-h8mFkp_DSCgdv9aS)
+![Модель процессора](https://drive.google.com/uc?id=17e4GBco-_U8h6mNC6utpRkh0xWS2RRcW)
 ![Объем доступной оперативной памяти](https://drive.google.com/uc?id=1b9xpWNR1luYNJRSPDPYb-EHv5WNIZvGT)
 
-![Тип обнаруженного гипервизора](https://drive.google.com/uc?id=1UblkoNTL40cwQ7wDmhxqagD_b0Qdhzdm)
+![Тип обнаруженного гипервизора](https://drive.google.com/uc?id=1pA6BTIGNbD_QVpT56Iyn463RYe7Brtq0)
 
 ![Тип файловой системы корневого раздела](https://drive.google.com/uc?id=1jqlbgVlPXbhyDELVz9Hrfah1De_MWeGc)
 
