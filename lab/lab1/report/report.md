@@ -132,7 +132,7 @@ header-includes:
 
 ![Тип обнаруженного гипервизора](https://drive.google.com/uc?id=1UblkoNTL40cwQ7wDmhxqagD_b0Qdhzdm)
 
-![Тип файловой системы корневого раздела](https://drive.google.com/uc?id=16X29qW9bAuDKizNXAzefepbSwJjtXxir)
+![Тип файловой системы корневого раздела](https://drive.google.com/uc?id=1jqlbgVlPXbhyDELVz9Hrfah1De_MWeGc)
 
 ![Последовательность монтирования файловых систем](https://drive.google.com/uc?id=1KyrQE5dxWP4vMjfu3N-vaAy7FwaJd39F)
 
