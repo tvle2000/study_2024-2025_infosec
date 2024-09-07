@@ -61,7 +61,7 @@ header-includes:
 
 - Создать новую виртуальную машину, укажать называние и тип операционной системы — Linux, RedHat.
 
-![Окно «Называние машины и тип ОС»](https://drive.google.com/uc?id=1h1jlRdL19VZGcLUiDxCezIA1KuDIzQRI)
+![Окно «Называние машины и тип ОС»](https://drive.google.com/uc?id=1MqmazwYUKHIFNBDCGLg0d0I4QPkBPaKE)
 
 # III. Выполнение задания
 
@@ -101,7 +101,7 @@ header-includes:
 # III. Выполнение задания
 
 ## 2. Настроить систему для работы сервисов
-![Включите сетевое соединение и в качестве имени узла укажать ltvinh.localdomain](https://drive.google.com/uc?id=1JMw1-mtim3WrwerHyGZaK9qCtoPxrcV6)
+![Включите сетевое соединение и в качестве имени узла укажать ltvinh.localdomain](https://drive.google.com/uc?id=1LDkQVpwU_T_QI0Bbh8qFRFOSqe9Nz_DI)
 
 # III. Выполнение задания
 ## 2. Настроить систему для работы сервисов
@@ -111,7 +111,7 @@ header-includes:
 # III. Выполнение задания
 ## 2. Настроить систему для работы сервисов
 
-![Установить пароль для пользователя с правами администратора](https://drive.google.com/uc?id=164ui4Rh7OfjA4VKZW61FTLpz0zIFX8Gj)
+[![Установить пароль для пользователя с правами администратора](https://drive.google.com/uc?id=164ui4Rh7OfjA4VKZW61FTLpz0zIFX8Gj)](https://drive.google.com/uc?id=1te4fna3ntqP-WXvjI4R2sI9HsS4GOFSi))
 
 - После этого, мы перезапустим виртуальную машину
 
@@ -125,13 +125,18 @@ header-includes:
 
 - **dmesg** - команда, используемая в UNIX‐подобных операционных системах для вывода буфера сообщений ядра в стандартный поток вывода (по умолчанию на экран)
 - Можно использовать поиск с помощью **grep** для получения следующей информаций:
-- Версия ядра Linux
-- Частота процессора
-- Модель процессора
-- Объем доступной оперативной памяти
-- Тип обнаруженного гипервизора
-- Тип файловой системы корневого раздела
-- Последовательность монтирования файловых систем
+![Версия ядра Linux](https://drive.google.com/uc?id=1NpFFcMpPj7indoqez4XhirYsY8Z_OT7d)
+
+![Частота процессора](https://drive.google.com/uc?id=1AFc30rC53hduZlt-h8mFkp_DSCgdv9aS)
+![Модель процессора](https://drive.google.com/uc?id=17e4GBco-_U8h6mNC6utpRkh0xWS2RRcW)
+![Объем доступной оперативной памяти](https://drive.google.com/uc?id=1b9xpWNR1luYNJRSPDPYb-EHv5WNIZvGT)
+
+![Тип обнаруженного гипервизора](https://drive.google.com/uc?id=1pA6BTIGNbD_QVpT56Iyn463RYe7Brtq0)
+
+![Тип файловой системы корневого раздела](https://drive.google.com/uc?id=1jqlbgVlPXbhyDELVz9Hrfah1De_MWeGc)
+
+![Последовательность монтирования файловых систем](https://drive.google.com/uc?id=1KyrQE5dxWP4vMjfu3N-vaAy7FwaJd39F)
+
 
 # IV. Вывод
 После лаборатоной работы я получил навыки установок и настройки операционной системы на виртуальную машину для дальнейшей работы сервисов.
