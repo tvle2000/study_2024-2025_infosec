@@ -73,7 +73,7 @@ header-includes:
 
 - Используя учетную запись администратора, создаем учетную запись пользователя "guest2" и поставить пароль для "guest2".
 
-![](https://drive.google.com/uc?id=1AhzRgsc_ya7u37RuwnUOQp99g28hGpqF)
+![](https://drive.google.com/uc?id=10ovX0ZpscEcBGDr8Ah0E3PerC_63ul75)
 
 - Добавить пользователя guest2 в группу guest.
 
