@@ -30,7 +30,7 @@ header-includes:
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
   * Ле Тиен Винь
-  * студент
+  * Cтудент
   * Российский университет дружбы народов
   * [1032215241@pfur.ru](mailto:1032215241@rudn.ru)
   * https://github.com/tvle2000/information
